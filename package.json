@@ -1,5 +1,5 @@
 {
-  "name": "assistan_platform",
+  "name": "assistant_platform",
   "version": "1.0.0",
   "description": "biblioteca de Vision Computacional: Tracking.js",
   "main": "index.js",
